@@ -10,7 +10,7 @@ Graczy z dłuższym stażem również zapraszamy na ścieżkę, jeżeli uważaci
 
 -------------------------------
 
-Lekcja #1: Co to jest Geocaching, co znajduje się w skrzynkach, jak zacząć grać.
-Lekcja #2: Co ze sobą zabrać, jak się przygotować przed wyjściem, PWG.
-Lekcja #3: Oznaczenia trudności terenu i rodzaje skrzynek.
-Lekcja #4: Geocaching Premium - narzędzia i różnice.
+Lekcja #1: Co to jest Geocaching, co znajduje się w skrzynkach, jak zacząć grać.<br />
+Lekcja #2: Co ze sobą zabrać, jak się przygotować przed wyjściem, PWG.<br />
+Lekcja #3: Oznaczenia trudności terenu i rodzaje skrzynek.<br />
+Lekcja #4: Geocaching Premium - narzędzia i różnice.<br />
