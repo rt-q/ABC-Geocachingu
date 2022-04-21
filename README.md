@@ -1,4 +1,4 @@
-ABC Geocachingu w tym miejscu ma na celu stworzenie poradnika dla nowych graczy. Kilka lekcji jest już gotowych, ale możliwość edycji źródła na pewno wpłynie pozytywnie na jego wartość merytoryczną. 
+ABC Geocachingu w tym miejscu ma na celu stworzenie poradnika dla nowych graczy. Kilka lekcji jest już gotowych, ale możliwość edycji źródła na pewno wpłynie pozytywnie na jego wartość merytoryczną. Oryginalna seria znajduje się w Ostrołęce, jeżeli ktoś chciałby stworzyć podobną w innej lokalizacji może skorzystać z materiałów, które się tu znajdują.
 
 -------------------------------
 
